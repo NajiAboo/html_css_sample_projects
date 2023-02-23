@@ -1,0 +1,12 @@
+body {
+    background: url("/images/bg.jpg") no-repeat center center fixed;
+    background-size: cover;
+}
+
+div {
+    width: 60%;
+    background-color: lightblue;
+    margin: 100px auto;
+    text-align: center;
+    border-radius: 25px;
+}
